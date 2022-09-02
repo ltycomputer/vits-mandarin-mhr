@@ -17,8 +17,8 @@
     "c_kl": 1.0
   },
   "data": {
-    "training_files":"filelists/mix_train_filelist.txt.cleaned",
-    "validation_files":"filelists/mix_val_filelist.txt.cleaned",
+    "training_files":"filelists/mhrzb_train_filelist.txt.cleaned",
+    "validation_files":"filelists/mhrzb_val_filelist.txt.cleaned",
     "text_cleaners":["chinese_cleaners1"],
     "max_wav_value": 32768.0,
     "sampling_rate": 44100,
