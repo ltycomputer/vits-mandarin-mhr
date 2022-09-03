@@ -1,4 +1,4 @@
-﻿Dataset/Mahiru/MHRZB_07/MHRZB_07_final_000.wav|0|今天是个一如往常跟灯子一起前往学生会办公室的日子好像有声音
+Dataset/Mahiru/MHRZB_07/MHRZB_07_final_000.wav|0|今天是个一如往常跟灯子一起前往学生会办公室的日子好像有声音
 Dataset/Mahiru/MHRZB_07/MHRZB_07_final_001.wav|0|我们聊到一半灯子突然东张西望了起来然后稍稍偏离了道路
 Dataset/Mahiru/MHRZB_07/MHRZB_07_final_002.wav|0|我想说他怎么了而追了上去就看到灯子贴在校舍转角上
 Dataset/Mahiru/MHRZB_07/MHRZB_07_final_003.wav|0|好像在窥探什么般伸长脖子所以我也往他的背后靠了过去

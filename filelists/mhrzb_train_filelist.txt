@@ -1,4 +1,4 @@
-﻿Dataset/Mahiru/MHRZB_02/MHRZB_02_final_000.wav|0|沙弥香妹妹我听见在学校顺手出现
+Dataset/Mahiru/MHRZB_02/MHRZB_02_final_000.wav|0|沙弥香妹妹我听见在学校顺手出现
 Dataset/Mahiru/MHRZB_02/MHRZB_02_final_001.wav|0|直呼我名字的声音后回头是合唱团的学姐因为我都称呼她柚木学姐
 Dataset/Mahiru/MHRZB_02/MHRZB_02_final_002.wav|0|所以尽管我可以马上说出他姓什么却不知道他叫什么名字但是他却能如此轻易地喊出我的名字
 Dataset/Mahiru/MHRZB_02/MHRZB_02_final_003.wav|0|而且还加上了妹妹我有点抗拒听起来挺不自在
